@@ -10,7 +10,7 @@ int main(void)
 
 	for (hex = 0; hex < 10; hex++)
 	{
-		printf("%x\n", hex);
+		printf("%x", hex);
 	}
 	return (0);
 }
