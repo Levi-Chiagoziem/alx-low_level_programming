@@ -14,7 +14,7 @@ int main(void)
 		putchar(hex);
 	}
 
-	for (hex = 'a'; hex <= 'g'; hex++)
+	for (hex = 'a'; hex <= 'f'; hex++)
 	{
 		putchar(hex);
 	}
