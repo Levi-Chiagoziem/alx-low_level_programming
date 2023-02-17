@@ -12,5 +12,6 @@ int main(void)
 	{
 		printf("%x", hex);
 	}
+	printf("\n");	
 	return (0);
 }
