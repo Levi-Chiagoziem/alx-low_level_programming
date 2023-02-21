@@ -1,11 +1,10 @@
 #include "main.h"
 /**
- * main - int _islower(int c) function
+ *int _islower(int c) - function
  *
- * Return: always 0
- **/
-
-int main(void)
+ * Return: Always 0
+ */
+int _islower(int c);
 {
 	if (c >= 'a' && c < 'z')
 		return (1);
