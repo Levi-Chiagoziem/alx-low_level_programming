@@ -4,6 +4,7 @@
  *@c: function character
  *Return: returns 0 if c is a digit, returns 0 if c is not
  */
+
 int _isdigit(int c)
 {
 
