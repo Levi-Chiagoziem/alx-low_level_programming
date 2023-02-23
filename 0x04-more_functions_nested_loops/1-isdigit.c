@@ -2,7 +2,7 @@
 /**
  *_isdigit - function
  *@c: function character
- *Return: returns 0 if c is a digit, returns 0 if c is not
+ *Return: returns 1 if it is uppercase, 0 if not
  */
 
 int _isdigit(int c)
